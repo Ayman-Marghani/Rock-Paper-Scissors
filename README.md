@@ -5,3 +5,5 @@ This is the third project in the foundations course (JavaScript section) of the 
 
 ### Learned Skills
 - JavaScript
+- HTML
+- CSS
